@@ -1,3 +1,3 @@
-# ***Lit Sites***
+# ***Lit Home***
 
-A base repo for my [Jekyll](https://github.com/jekyll/jekyll) sites
+A [jekyll](https://github.com/jekyll/jekyll) site to serve as a hub for my other sites
