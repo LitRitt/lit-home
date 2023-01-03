@@ -6,4 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Welcome
 ---
+
+Lit Home is where all my other sites live.
