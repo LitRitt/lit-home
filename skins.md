@@ -1,4 +1,4 @@
 ---
-title: Skins
-redirect_to: https://skins.litritt.com
+redirect_title: Skins
+redirect_url: https://skins.litritt.com
 ---

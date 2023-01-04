@@ -1,4 +1,4 @@
 ---
-title: Designs
-redirect_to: https://design.litritt.com
+redirect_title: Designs
+redirect_url: https://design.litritt.com
 ---

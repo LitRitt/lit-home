@@ -1,4 +1,4 @@
 ---
-title: Blog
-redirect_to: https://blog.litritt.com
+redirect_title: Blog
+redirect_url: https://blog.litritt.com
 ---
