@@ -1,12 +1,14 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 layout: home
 title: Welcome
 ---
 
-Lit Home is where all my other sites live.
+I'm LitRitt and this is my domain. I make cool things and like to share them.
+
+# Sites
+
+## [Blog](https://blog.litritt.com) | [Skins](https://skins.litritt.com) | [Guides](https://guides.litritt.com) | [Designs](https://designs.litritt.com)
+
+# Services
+
+## [Apps](https://apps.litritt.com) | [Provision](https://ani.litritt.com)

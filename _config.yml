@@ -1,11 +1,10 @@
-title: LitRitt Designs
+title: Lit Home
 author:
   name: LitRitt
   email: dev@litritt.com
 description: The home of all things Lit
 url: "https://litritt.com"
-base_url: "" # Example - /blog
-github_url: "https://github.com/LitRitt/litritt.github.io" # GitHub link for footer link. Comment out to remove link
+github_url: "https://github.com/LitRitt/lit-home" # GitHub link for footer link. Comment out to remove link
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -22,8 +21,19 @@ lit-midnight:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+  - blog.md
+  - skins.md
+  - guides.md
+  - designs.md
+  - about.md
 
 # Build settings
 remote_theme: litritt/lit-midnight
+
+exclude:
+  - LICENSE.txt
+  - README.md
+
+whitelist:
+  - jekyll-redirect-from
