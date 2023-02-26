@@ -8,11 +8,11 @@ title: Delta Ignited
 
 # Add Source
 
-##[AltStore](altstore://source?url=https://apps.litritt.com) | [SideStore](sidestore://source?url=https://apps.litritt.com)
+## [AltStore](altstore://source?url=https://apps.litritt.com) | [SideStore](sidestore://source?url=https://apps.litritt.com)
 
 # Install App
 
-##[AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.1.0/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.1.0/delta-ignited.ipa)
+## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.1.0/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.1.0/delta-ignited.ipa)
 
 # Changelog
 
