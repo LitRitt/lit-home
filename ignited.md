@@ -12,9 +12,15 @@ title: Delta Ignited
 
 # Install App
 
-## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.1.0/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.1.0/delta-ignited.ipa)
+## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.5.2/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.5.2/delta-ignited.ipa)
 
 # Changelog
+
+## 0.5.2
+
+### **Updates**
+
+- Added new GBC skin with matching style and previews 
 
 ## 0.5.1
 
