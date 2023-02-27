@@ -12,7 +12,7 @@ title: Delta Ignited
 
 # Install App
 
-## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.5.2/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.5.2/delta-ignited.ipa)
+## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
 
 # Changelog
 
