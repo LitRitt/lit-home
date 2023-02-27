@@ -4,7 +4,11 @@ permalink: /ignited
 title: Delta Ignited
 ---
 
-[Delta Ignited](https://github.com/Lit-Development/Delta-Ignited) is my fork of the [Delta](https://github.com/rileytestut/Delta) emulator. I build on top of Delta's development by adding new graphics, features, and fixes. The project is open-source and free forever, no paid betas here! If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt).
+Delta Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new assets, skins, features, and fixes. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt).
+
+# GitHub
+
+## [Repo](https://github.com/Lit-Development/Delta-Ignited) | [Releases](https://github.com/Lit-Development/Delta-Ignited/releases)
 
 # Add Source
 
