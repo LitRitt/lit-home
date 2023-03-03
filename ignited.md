@@ -24,6 +24,13 @@ Delta Ignited is my fork of the Delta emulator. I build on top of Delta's develo
 
 # Changelog
 
+## 0.5.3
+
+### **Updates**
+
+- Update local multiplayer controller settings logic
+- Remove rewind feature due to crashes
+
 ## 0.5.2
 
 ### **Updates**
