@@ -24,6 +24,12 @@ Delta Ignited is my fork of the Delta emulator. I build on top of Delta's develo
 
 # Changelog
 
+## 0.6.0
+
+### **New Feature**
+
+- Add in-app updates changelog
+
 ## 0.5.3
 
 ### **Updates**
