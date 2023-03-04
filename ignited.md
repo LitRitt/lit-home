@@ -6,6 +6,18 @@ title: Delta Ignited
 
 Delta Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new assets, skins, features, and fixes. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt).
 
+# GitHub
+
+## [Repo](https://github.com/Lit-Development/Delta-Ignited) | [Releases](https://github.com/Lit-Development/Delta-Ignited/releases)
+
+# Add Source
+
+## [AltStore](altstore://source?url=https://apps.litritt.com) | [SideStore](sidestore://source?url=https://apps.litritt.com)
+
+# Install App
+
+## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [Patron](href="itms-services://?action=download-manifest&url=https://apps.litritt.com/ignited")
+
 # Changelog
 
 ## 0.6.1
@@ -105,19 +117,3 @@ Delta Ignited is my fork of the Delta emulator. I build on top of Delta's develo
 - DS Home Icon
 - Launch Screen
 - GBA Controller Skin
-
-# GitHub
-
-## [Repo](https://github.com/Lit-Development/Delta-Ignited) | [Releases](https://github.com/Lit-Development/Delta-Ignited/releases)
-
-# Add Source
-
-## [AltStore](altstore://source?url=https://apps.litritt.com) | [SideStore](sidestore://source?url=https://apps.litritt.com)
-
-# Install App
-
-## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
-
-# Download IPA
-
-## [Latest Release](https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
