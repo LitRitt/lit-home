@@ -16,7 +16,7 @@ Delta Ignited is my fork of the Delta emulator. I build on top of Delta's develo
 
 # Install App
 
-## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [Patron](href="itms-services://?action=download-manifest&url=https://apps.litritt.com/ignited")
+## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [Patrons](itms-services://?action=download-manifest&url=https://apps.litritt.com/ignited)
 
 # Changelog
 
