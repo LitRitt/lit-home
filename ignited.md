@@ -8,7 +8,7 @@ Delta Ignited is my fork of the Delta emulator. I build on top of Delta's develo
 
 # Install App
 
-## [Direct for Patrons](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.2/manifest.plist) | [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
+## [Direct](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.2/manifest.plist) | [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
 
 # Add Source
 
@@ -20,7 +20,7 @@ Delta Ignited is my fork of the Delta emulator. I build on top of Delta's develo
 
 # Changelog
 
-## 0.6.2
+## [0.6.2](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.2/manifest.plist)
 
 ### **New Features**
 
@@ -30,14 +30,14 @@ Delta Ignited is my fork of the Delta emulator. I build on top of Delta's develo
 
 - Fix controller skin previews not showing for standard size iPhones
 
-## 0.6.1
+## [0.6.1](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.1/manifest.plist)
 
 ### **Updates**
 
 - Change formatting of updates screen
 - Move updates to its own section in settings
 
-## 0.6.0
+## [0.6.0](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.0/manifest.plist)
 
 ### **New Features**
 
