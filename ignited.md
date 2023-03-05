@@ -4,21 +4,31 @@ permalink: /ignited
 title: Delta Ignited
 ---
 
-Delta Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new assets, skins, features, and fixes. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt).
+Delta Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new assets, skins, features, and fixes. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt). Patrons will be able to install and update Delta Ignited from the link on this page at any time, without relying on sideloading solutions like AltStore or Scarlet.
 
-# GitHub
+# Install App
 
-## [Repo](https://github.com/Lit-Development/Delta-Ignited) | [Releases](https://github.com/Lit-Development/Delta-Ignited/releases)
+## [Direct for Patrons](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.2/manifest.plist) | [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
 
 # Add Source
 
 ## [AltStore](altstore://source?url=https://apps.litritt.com) | [SideStore](sidestore://source?url=https://apps.litritt.com)
 
-# Install App
+# GitHub
 
-## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [Safari](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.1/manifest.plist)
+## [Repo](https://github.com/Lit-Development/Delta-Ignited) | [Releases](https://github.com/Lit-Development/Delta-Ignited/releases)
 
 # Changelog
+
+## 0.6.2
+
+### **New Features**
+
+- Allow patrons to install and update the app from safari
+
+### **Updates**
+
+- Fix controller skin previews not showing for standard size iPhones
 
 ## 0.6.1
 
