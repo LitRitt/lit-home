@@ -8,7 +8,7 @@ Delta Ignited is my fork of the Delta emulator. I build on top of Delta's develo
 
 # Install App
 
-## [Direct](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.2/manifest.plist) | [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
+## [Direct](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.3/manifest.plist) | [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
 
 # Add Source
 
@@ -19,6 +19,19 @@ Delta Ignited is my fork of the Delta emulator. I build on top of Delta's develo
 ## [Repo](https://github.com/Lit-Development/Delta-Ignited) | [Releases](https://github.com/Lit-Development/Delta-Ignited/releases)
 
 # Changelog
+
+## [0.6.3](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.3/manifest.plist)
+
+### **New Features**
+
+- Access custom fast forward speeds from in-game menu and skin buttons
+
+### **Updates**
+
+- Make users accept a warning prompt to access 4x and faster speeds
+- Add 150% speed setting
+- Game will auto-save on every fast forward activation
+- Number of auto-saves increased from 2 to 4
 
 ## [0.6.2](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.2/manifest.plist)
 
