@@ -4,23 +4,47 @@ permalink: /ignited
 title: Delta Ignited
 ---
 
-Delta Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new assets, skins, features, and fixes. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt). Patrons will be able to install and update Delta Ignited from the link on this page at any time, without relying on sideloading solutions like AltStore or Scarlet.
+Delta Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new assets, skins, features, and fixes. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt).
 
-# Install App
-
-## [Direct](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.3/manifest.plist) | [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
-
-# Add Source
-
-## [AltStore](altstore://source?url=https://apps.litritt.com) | [SideStore](sidestore://source?url=https://apps.litritt.com)
+Patrons will be able to install and update Delta Ignited from the link on this page at any time, without relying on sideloading solutions like AltStore or Scarlet. Non-patrons can install Ignited with the AltStore/SideStore links below, or download the IPA manually.
 
 # GitHub
 
 ## [Repo](https://github.com/Lit-Development/Delta-Ignited) | [Releases](https://github.com/Lit-Development/Delta-Ignited/releases)
 
+# Direct Download
+
+## [Patron OTA](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.7.0/manifest.plist) | [IPA](https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
+
+# Add Source to AltStore
+
+## [AltStore](altstore://source?url=https://apps.litritt.com) | [SideStore](sidestore://source?url=https://apps.litritt.com)
+
+# Install with AltStore
+
+## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
+
 # Changelog
 
-## [0.6.3](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.3/manifest.plist)
+## 0.7.0
+
+### **New Features**
+
+- Alt Skins - An alternate skin appearance that can be swapped to from a skin or menu item. Allows for a wide range of implementations. Any feature that boils down to switching something on a skin can be achieved using this new feature, including: DS screen swapping, toggle-able screen filters, cosmetics like a power/charging light, and more.
+- Toast Notifications - You will now receive short in-game popups when you save, load, or toggle something. Play with confidence knowing Ignited did what you asked it to.
+- Always Show Skin Toggle - You now have the option to always show the skin image, even when a controller connected
+- In-App Debug Toggle - You no longer have to edit the debug setting in a controller skin, the option is now available in both the settings and the pause menu
+
+### **Changes**
+
+- Updated footer descriptions for `Controller Skin Options` and `Fast Forward` sections in settings
+- Added `Alternate Skin` and `Debug Mode` pause menu items
+
+### **Bugfixes**
+
+- Fixed a bug where the user preferred DS core was changed to MelonDS every time the app started
+
+## 0.6.3
 
 ### **New Features**
 
@@ -33,7 +57,7 @@ Delta Ignited is my fork of the Delta emulator. I build on top of Delta's develo
 - Game will auto-save on every fast forward activation
 - Number of auto-saves increased from 2 to 4
 
-## [0.6.2](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.2/manifest.plist)
+## 0.6.2
 
 ### **New Features**
 
@@ -43,14 +67,14 @@ Delta Ignited is my fork of the Delta emulator. I build on top of Delta's develo
 
 - Fix controller skin previews not showing for standard size iPhones
 
-## [0.6.1](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.1/manifest.plist)
+## 0.6.1
 
 ### **Updates**
 
 - Change formatting of updates screen
 - Move updates to its own section in settings
 
-## [0.6.0](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.0/manifest.plist)
+## 0.6.0
 
 ### **New Features**
 
