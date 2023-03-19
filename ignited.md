@@ -14,7 +14,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Direct Download
 
-## [Patron OTA](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.7.0/manifest.plist) | [IPA](https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
+## [Patron OTA](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.7.1/manifest.plist) | [IPA](https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/Ignited.ipa)
 
 # Add Source to AltStore
 
@@ -22,9 +22,18 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Install with AltStore
 
-## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa)
+## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/Ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/Ignited.ipa)
 
 # Changelog
+
+## 0.7.1
+
+### **Changes**
+
+- Alternate Skin pause menu item now only shows is the current skin supports it
+- Debug Mode pause menu item now only shows if the current skin's debug property is set to true, or debug mode is manually enabled in settings
+- Reordered save state menu sections. General at the top and Quick/Auto at the bottom
+- Rebrand to from Delta Ignited to just Ignited
 
 ## 0.7.0
 
