@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: /ignited
-title: Delta Ignited
+title: Ignited Emulator for iOS
 ---
 
-Delta Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new assets, skins, features, and fixes. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt).
+Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new assets, skins, features, and fixes. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt).
 
 Patrons will be able to install and update Delta Ignited from the link on this page at any time, without relying on sideloading solutions like AltStore or Scarlet. Non-patrons can install Ignited with the AltStore/SideStore links below, or download the IPA manually.
 
