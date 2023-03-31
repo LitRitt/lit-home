@@ -14,7 +14,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Direct Download
 
-## [Patron OTA](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.7.1/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
+## [Patron OTA](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.0.1/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Add Source to AltStore
 
@@ -26,11 +26,15 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Changelog
 
+## 1.0.1
+
+- Fixed link in settings
+
 ## 1.0
 
 ### **New Features**
 
-- pp Theming - Choose from a variety of colors to change the tint and app icon of Ignited. Emulate in your own style!
+- Theming - Choose from a variety of colors to change the tint and app icon of Ignited. Emulate in your own style!
 
 ### **UI Updates**
 
