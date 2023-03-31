@@ -7,7 +7,7 @@ I'm LitRitt and this is my domain. I make cool things and like to share them.
 
 # Apps
 
-## [Delta Ignited](https://litritt.com/ignited)
+## [Ignited Retro Emulator for iOS](https://litritt.com/ignited)
 
 # Sites
 

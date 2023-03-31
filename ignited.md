@@ -1,20 +1,20 @@
 ---
 layout: home
 permalink: /ignited
-title: Delta Ignited
+title: Ignited Emulator for iOS
 ---
 
-Delta Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new assets, skins, features, and fixes. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt).
+Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new features, fixes, skins, and assets. Development will always be free and public, and I try to engage with the community as much as possible when designing new features. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt).
 
 Patrons will be able to install and update Delta Ignited from the link on this page at any time, without relying on sideloading solutions like AltStore or Scarlet. Non-patrons can install Ignited with the AltStore/SideStore links below, or download the IPA manually.
 
 # GitHub
 
-## [Repo](https://github.com/Lit-Development/Delta-Ignited) | [Releases](https://github.com/Lit-Development/Delta-Ignited/releases)
+## [Repo](https://github.com/Lit-Development/Ignited) | [Releases](https://github.com/Lit-Development/Ignited/releases)
 
 # Direct Download
 
-## [Patron OTA](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.7.1/manifest.plist) | [IPA](https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/Ignited.ipa)
+## [Patron OTA](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/0.7.1/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Add Source to AltStore
 
@@ -22,9 +22,27 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Install with AltStore
 
-## [AltStore](altstore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/Ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/Ignited.ipa)
+## [AltStore](altstore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Changelog
+
+## 1.0
+
+### **New Features**
+
+- pp Theming - Choose from a variety of colors to change the tint and app icon of Ignited. Emulate in your own style!
+
+### **UI Updates**
+
+- Album artwork now has rounded corners, contrasting borders, and a drop shadow
+- Can now change the artwork size between small, medium, and large
+- Default box-art now features the cartridge of their respective system
+
+### **Changes**
+
+- Custom fast-forward is enabled by default
+- Default speed changed to 4x
+- Removed 4x from unsafe speeds
 
 ## 0.7.1
 
