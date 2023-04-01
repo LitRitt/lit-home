@@ -14,7 +14,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Direct Download
 
-## [Patron OTA](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.0.1/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
+## [Patron OTA](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.0.2/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Add Source to AltStore
 
@@ -26,7 +26,23 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Changelog
 
+## 1.0.2 - Latest
+
+### **New Features**
+
+- Added theme colored highlighting to currently running game's artwork
+
+### **Updates**
+
+- Make artwork spacing dynamic like size
+
+### **Bugfixes**
+
+- Fixed some artwork bugs caused by resizing
+
 ## 1.0.1
+
+### **Bugfixes**
 
 - Fixed link in settings
 
