@@ -4,7 +4,7 @@ permalink: /ignited
 title: Ignited Emulator for iOS
 ---
 
-Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new features, fixes, skins, and assets. Development will always be free and public, and I try to engage with the community as much as possible when designing new features. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt).
+Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new features, fixes, skins, and assets. I try to engage with the community as much as possible when designing new features. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt).
 
 Patrons will be able to install and update Delta Ignited from the link on this page at any time, without relying on sideloading solutions like AltStore or Scarlet. Non-patrons can install Ignited with the AltStore/SideStore links below, or download the IPA manually.
 
@@ -14,7 +14,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Direct Download
 
-## [Patron OTA](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.0.2/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
+## [Patron](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.1.0/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Add Source to AltStore
 
@@ -26,7 +26,19 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Changelog
 
-## 1.0.2 - Latest
+## 1.1.0
+
+### **New Features**
+
+- Added a toggle to automatically load the last auto save when launching a game
+- Added toggle to enabled/disabled in-game toast notifications
+
+### **Updates**
+
+- Removed the Resume Game prompt from the game selection screen
+- Added a Restart Game pause menu button
+
+## 1.0.2
 
 ### **New Features**
 
