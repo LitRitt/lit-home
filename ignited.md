@@ -14,7 +14,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Direct Download
 
-## [Patron](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.1.1/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
+## [Patron](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.1.2/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Add Source to AltStore
 
@@ -25,6 +25,25 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 ## [AltStore](altstore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Changelog
+
+## 1.1.2
+
+### **WARNING** 
+
+This update uses a new bundleID with my domain. It will never change again agter this point. Installing will not overwrite your old app. You will need to use Sync or manually transfer data to the new app.
+
+### **New Features**
+
+- Made auto save states syncable
+
+### **Updates**
+
+- Made the restart game button available to skins and controllers
+- Made the current game highlighting stand out more
+
+### **Bugfixes**
+
+- Fixed last unthemed elements buried in settings
 
 ## 1.1.1
 
