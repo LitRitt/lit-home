@@ -30,7 +30,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 ### **WARNING** 
 
-This update uses a new bundleID with my domain. It will never change again agter this point. Installing will not overwrite your old app. You will need to use Sync or manually transfer data to the new app.
+This update uses a new bundleID with my domain. It will never change again after this point. Installing will not overwrite your old app. You will need to use Sync or manually transfer data to the new app.
 
 ### **New Features**
 
