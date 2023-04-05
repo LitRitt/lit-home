@@ -12,9 +12,9 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 ## [Repo](https://github.com/Lit-Development/Ignited) | [Releases](https://github.com/Lit-Development/Ignited/releases)
 
-# Direct Download
+# Download
 
-## [Patron](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.1.2/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
+## [Patrons](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.1.3/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Add Source to AltStore
 
@@ -25,6 +25,13 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 ## [AltStore](altstore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Changelog
+
+## 1.1.3
+
+### **New Features**
+
+- Added option for clicky haptic feedback - A more rigid haptic impulse will be sent on both button press and release
+- Added slider for haptic feedback strength
 
 ## 1.1.2
 
