@@ -14,7 +14,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Download
 
-## [Patrons](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.1.3/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
+## [Patrons](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.1.4/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Add Source to AltStore
 
@@ -25,6 +25,21 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 ## [AltStore](altstore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Changelog
+
+## 1.1.4
+
+### **New Features**
+
+- Re-enabled Save State Rewind - Disabled on GBC to prevent crashes with gambette
+
+### **Updates**
+
+- Added new Advanced section to settings - Moved alt skin and debug toggles there
+- Custom fast forward speed is now default - Toggle removed
+
+### **Bugfixes**
+
+- Fixed the Show with Controller settings not working on DS
 
 ## 1.1.3
 
