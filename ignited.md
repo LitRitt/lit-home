@@ -14,7 +14,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Download
 
-## [Patrons](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.1.4/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
+## [Patrons](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.2.0/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Add Source to AltStore
 
@@ -25,6 +25,18 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 ## [AltStore](altstore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Changelog
+
+## 1.2.0
+
+### **New Features**
+
+- Touch Overlays - Get visual feedback about what buttons are currently pressed
+- Options for size, opacity, and color of touch overlays
+- Resume Button added to game collection screen beside the page dots
+
+### **Bugfixes**
+
+- Fixed controller skins losing transparency on device rotation
 
 ## 1.1.4
 
