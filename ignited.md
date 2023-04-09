@@ -14,7 +14,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Download
 
-## [Patrons](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.2.0/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
+## [Patrons](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.2.1/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Add Source to AltStore
 
@@ -25,6 +25,20 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 ## [AltStore](altstore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Changelog
+
+## 1.2.1
+
+### **New Features**
+
+- Audio Button Feedback - option to play a sound when a controller skin input is pressed
+
+### **Updates**
+
+- Raise minimum iOS to 14.0 - Removed all legacy code
+
+### **Bugfixes**
+
+- Fixed laggy sliders in settings that could crash the app when paused
 
 ## 1.2.0
 
