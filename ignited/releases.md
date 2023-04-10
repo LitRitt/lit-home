@@ -1,32 +1,22 @@
 ---
 layout: home
-permalink: /ignited
-title: Ignited Emulator for iOS
+permalink: /ignited/releases
+title: Ignited Releases Changelog
 ---
 
-Ignited is my fork of the Delta emulator. I build on top of Delta's development by adding new features, fixes, skins, and assets. I try to engage with the community as much as possible when designing new features. If you want to support me and help make the best iOS emulator even better, please consider becoming a [patron](https://patreon.com/litritt).
+## [Ignited Main Page](https://litritt.com/ignited)
 
-Patrons will be able to install and update Delta Ignited from the link on this page at any time, without relying on sideloading solutions like AltStore or Scarlet. Non-patrons can install Ignited with the AltStore/SideStore links below, or download the IPA manually.
+## 1.2.3 - 4/10/2023
 
-# GitHub
+### **New Features**
 
-## [Repo](https://github.com/Lit-Development/Ignited) | [Releases](https://github.com/Lit-Development/Ignited/releases)
+- Updates screen will now be shown once per update at launch
 
-# Download
+### **Updates**
 
-## [Patrons](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.2.2/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
+- Updates screen now includes dates for all versions
 
-# Add Source to AltStore
-
-## [AltStore](altstore://source?url=https://apps.litritt.com) | [SideStore](sidestore://source?url=https://apps.litritt.com)
-
-# Install with AltStore
-
-## [AltStore](altstore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
-
-# Changelog
-
-## 1.2.2
+## 1.2.2 - 4/9/2023
 
 ### **New Features**
 
@@ -37,7 +27,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 - Updated OpenVGDB database
 
-## 1.2.1
+## 1.2.1 - 4/9/2023
 
 ### **New Features**
 
@@ -51,7 +41,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 - Fixed laggy sliders in settings that could crash the app when paused
 
-## 1.2.0
+## 1.2.0 - 4/8/2023
 
 ### **New Features**
 
@@ -63,7 +53,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 - Fixed controller skins losing transparency on device rotation
 
-## 1.1.4
+## 1.1.4 - 4/6/2023
 
 ### **New Features**
 
@@ -78,14 +68,14 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 - Fixed the Show with Controller settings not working on DS
 
-## 1.1.3
+## 1.1.3 - 4/5/2023
 
 ### **New Features**
 
 - Added option for clicky haptic feedback - A more rigid haptic impulse will be sent on both button press and release
 - Added slider for haptic feedback strength
 
-## 1.1.2
+## 1.1.2 - 4/2/2023
 
 ### **WARNING** 
 
@@ -104,13 +94,13 @@ This update uses a new bundleID with my domain. It will never change again after
 
 - Fixed last unthemed elements buried in settings
 
-## 1.1.1
+## 1.1.1 - 4/2/2023
 
 ### **Changes**
 
 - Updated toast notification logic to prevent multiple toasts being shown at once
 
-## 1.1.0
+## 1.1.0 - 4/1/2023
 
 ### **New Features**
 
@@ -122,7 +112,7 @@ This update uses a new bundleID with my domain. It will never change again after
 - Removed the Resume Game prompt from the game selection screen
 - Added a Restart Game pause menu button
 
-## 1.0.2
+## 1.0.2 - 4/1/2023
 
 ### **New Features**
 
@@ -136,13 +126,13 @@ This update uses a new bundleID with my domain. It will never change again after
 
 - Fixed some artwork bugs caused by resizing
 
-## 1.0.1
+## 1.0.1 - 3/30/2023
 
 ### **Bugfixes**
 
 - Fixed link in settings
 
-## 1.0
+## 1.0.0 - 3/30/2023
 
 ### **New Features**
 
@@ -160,7 +150,7 @@ This update uses a new bundleID with my domain. It will never change again after
 - Default speed changed to 4x
 - Removed 4x from unsafe speeds
 
-## 0.7.1
+## 0.7.1 - 3/19/2023
 
 ### **Changes**
 
@@ -169,7 +159,7 @@ This update uses a new bundleID with my domain. It will never change again after
 - Reordered save state menu sections. General at the top and Quick/Auto at the bottom
 - Rebrand to from Delta Ignited to just Ignited
 
-## 0.7.0
+## 0.7.0 - 3/18/2023
 
 ### **New Features**
 
@@ -187,7 +177,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 - Fixed a bug where the user preferred DS core was changed to MelonDS every time the app started
 
-## 0.6.3
+## 0.6.3 - 3/11/2023
 
 ### **New Features**
 
@@ -200,7 +190,7 @@ This update uses a new bundleID with my domain. It will never change again after
 - Game will auto-save on every fast forward activation
 - Number of auto-saves increased from 2 to 4
 
-## 0.6.2
+## 0.6.2 - 3/5/2023
 
 ### **New Features**
 
@@ -210,45 +200,45 @@ This update uses a new bundleID with my domain. It will never change again after
 
 - Fix controller skin previews not showing for standard size iPhones
 
-## 0.6.1
+## 0.6.1 - 3/4/2023
 
 ### **Updates**
 
 - Change formatting of updates screen
 - Move updates to its own section in settings
 
-## 0.6.0
+## 0.6.0 - 3/3/2023
 
 ### **New Features**
 
 - Add in-app updates changelog
 
-## 0.5.3
+## 0.5.3 - 3/3/2023
 
 ### **Updates**
 
 - Update local multiplayer controller settings logic
 - Remove rewind feature due to crashes
 
-## 0.5.2
+## 0.5.2 - 2/26/2023
 
 ### **Updates**
 
 - Added new GBC skin with matching style and previews 
 
-## 0.5.1
+## 0.5.1 - 2/25/2023
 
 ### **Updates**
 
 - Implemented new preview feature in default GBA skin
 
-## 0.5.0
+## 0.5.0 - 2/25/2023
 
 ### **New Features**
 
 - Controller skin previews in settings
 
-## 0.4.1
+## 0.4.1 - 2/25/2023
 
 ### **Updates**
 
@@ -256,13 +246,13 @@ This update uses a new bundleID with my domain. It will never change again after
 - Fixed crashes on iPad related to popups
 - Fixed a crash in P2-P4 controller settings pages
 
-## 0.4.0
+## 0.4.0 - 2/24/2023
 
 ### **New Features**
 
 - Custom fast forward speed setting and toggle
 
-## 0.3.0
+## 0.3.0 - 2/23/2023
 
 ### **New Features**
 
@@ -273,7 +263,7 @@ This update uses a new bundleID with my domain. It will never change again after
 
 - Ensured all settings sections have a descriptive footer
 
-## 0.2.1
+## 0.2.1 - 2/21/2023
 
 ### **New Features**
 
@@ -285,7 +275,7 @@ This update uses a new bundleID with my domain. It will never change again after
 - Remove all beta checks
 - Contributors page updated
 
-## 0.2.0
+## 0.2.0 - 2/20/2023
 
 ### **New Features**
 
@@ -298,7 +288,7 @@ This update uses a new bundleID with my domain. It will never change again after
 - Contributors page updated
 - Update links in settings
 
-## 0.1.0
+## 0.1.0 - 2/19/2023
 
 ### **New Assets**
 
