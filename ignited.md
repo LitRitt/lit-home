@@ -14,7 +14,7 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 
 # Download
 
-## [Patrons](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.2.1/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
+## [Patrons](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.2.2/manifest.plist) | [IPA](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Add Source to AltStore
 
@@ -25,6 +25,17 @@ Patrons will be able to install and update Delta Ignited from the link on this p
 ## [AltStore](altstore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa) | [SideStore](sidestore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 
 # Changelog
+
+## 1.2.2
+
+### **New Features**
+
+- Game Volume - Change the game volume relative to your device volume
+- Toggle for whether game audio should play when other audio is playing in the background
+
+### **Updates**
+
+- Updated OpenVGDB database
 
 ## 1.2.1
 
