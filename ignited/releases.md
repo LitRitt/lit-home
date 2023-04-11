@@ -6,6 +6,14 @@ title: Ignited Releases Changelog
 
 ## [Ignited Main Page](https://litritt.com/ignited)
 
+## 1.2.4 - 4/11/2023
+
+### **Bugfixes**
+
+- Disabled auto-load save on DSi Home Screen
+- Removed cheats, save, load, and rewind pause menu items from DSi Home Screen
+- Removed cheats from DS Home Screen
+
 ## 1.2.3 - 4/10/2023
 
 ### **New Features**
