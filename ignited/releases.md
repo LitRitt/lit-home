@@ -1,10 +1,20 @@
 ---
 layout: home
 permalink: /ignited/releases
-title: Ignited Releases Changelog
+title: Ignited Releases
 ---
 
-## [Ignited Main Page](https://litritt.com/ignited)
+## [Ignited Home](https://litritt.com/ignited)
+
+## 1.2.5 - 4/12/2023
+
+### **Bugfixes**
+
+- Fixed importing game saves with auto-load save state enabled
+
+### **New Features**
+
+- Added advanced setting to clear auto save states from every game
 
 ## 1.2.4 - 4/11/2023
 
