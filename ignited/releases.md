@@ -6,6 +6,10 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.2.6 - 4/14/2023
+
+- Game Screenshots - save a screenshot of the game screen to your photos with a pause menu item or controller skin button
+
 ## 1.2.5 - 4/12/2023
 
 ### **Bugfixes**
