@@ -6,7 +6,20 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.2.7 - 4/15/2023
+
+### **New Features**
+
+- Added options to toggle game artwork borders, shadows, and rounded corners
+
+### **Updates**
+
+- Added confirmation popup to advanced settings
+- Game screenshots are now scaled up by 5x before being saved
+
 ## 1.2.6 - 4/14/2023
+
+### **New Features**
 
 - Game Screenshots - save a screenshot of the game screen to your photos with a pause menu item or controller skin button
 
