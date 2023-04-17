@@ -6,6 +6,18 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.2.8 - 4/16/2023
+
+### **New Features**
+
+- Added toggle to show or hide the status bar while in-game
+- Added Resource Links section to settings
+- Added Rom Patcher JS and DS Save Converter links
+
+### **Updates**
+
+- Added remaining file extensions for all systems supported by the Genesis Plus GX core
+
 ## 1.2.7 - 4/15/2023
 
 ### **New Features**
