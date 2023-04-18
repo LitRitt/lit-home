@@ -6,6 +6,18 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.2.9 - 4/18/2023
+
+### **Updates**
+
+- Added page for Lit Patrons shoutout
+- Changed rewind to be disabled by default
+
+### **Bugfixes**
+
+- Fixed a crash when toggling clicky haptics
+- Removed unsupported file extensions on GPGX
+
 ## 1.2.8 - 4/16/2023
 
 ### **New Features**
