@@ -6,6 +6,23 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.2.10 - 4/23/2023
+
+### **New Features**
+
+- New Screenshot options - Save to Files, Save to Photos, Image Scale
+
+### **Updates**
+
+- Forced light status bar during gameplay
+- Updated licenses page formatting
+- Reordered pause menu buttons and adjusted spacing to 4 items per row
+
+### **Bugfixes**
+
+- Adjusted settings slider labels to fit with bold system text
+- Removed unimplemented swipable page control
+
 ## 1.2.9 - 4/18/2023
 
 ### **Updates**
