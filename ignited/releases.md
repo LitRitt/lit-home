@@ -6,6 +6,22 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.3.0 - 4/28/2023
+
+### **New Features**
+
+- Skin Debug Device - Switch to another device type when debugging a skin, useful for testing skins on devices you don't own
+
+### **Updates**
+
+- Adds toasts notifications for more actions
+
+### **Bugfixes**
+
+- Now creates an auto save state when saving in-game, fixes old autosaves overwriting game data when loaded
+- Fixes the Resume button not working with auto-load save states disabled
+- Fixes the pause menu not fully showing in landscape with 2 rows of buttons
+
 ## 1.2.10 - 4/23/2023
 
 ### **New Features**
