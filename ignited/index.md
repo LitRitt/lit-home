@@ -21,3 +21,7 @@ Ignited is a multi-core emulator front-end for iOS devices. It provides a beauti
 - ## [AltStore Install](altstore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 - ## [AltStore (Beta) Source](altstore://source?url=https://apps.litritt.com)
 - ## [IPA File](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
+
+# Test
+
+- ## [Patron Beta OTA Install](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.4.0b1/manifest.plist)
