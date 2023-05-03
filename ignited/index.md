@@ -24,4 +24,4 @@ Ignited is a multi-core emulator front-end for iOS devices. It provides a beauti
 
 # Test
 
-- ## [Patron Beta OTA Install](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.4.0b2/manifest.plist)
+- ## [Patron Beta OTA Install](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.4.0b3/manifest.plist)
