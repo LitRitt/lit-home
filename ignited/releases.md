@@ -6,11 +6,37 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.4 - 5/13/2023
+
+### **Updates**
+
+- Settings page has been completely revamped and reorganized
+  - Many existing features received improvements as they were moved
+
+### **New Features**
+
+- Game Boy color palettes
+  - Several built in palettes and 3 user customizable palettes
+  - Both the main and sprite palettes can be changed, allowing for unique palettes never before possible
+- Custom Theme Color
+  - Choose your own color to use for the app accent color
+- Favorite Games
+  - Games can be favorited, with options to highlight and sort them to the top of the games list
+- Game Sorting
+  - You can now sort games A-Z, Z-A, most recently played, and least recently played
+- Animated Game Artwork
+  - Support for short animated GIFs as your game artwork, with options for animation pause and speed
+
+### Bugfixes
+
+- Burnt a bunch of bugs
+
 ## 1.3.0 - 4/28/2023
 
 ### **New Features**
 
-- Skin Debug Device - Switch to another device type when debugging a skin, useful for testing skins on devices you don't own
+- Skin Debug Device
+  - Switch to another device type when debugging a skin, useful for testing skins on devices you don't own
 
 ### **Updates**
 
@@ -26,7 +52,8 @@ title: Ignited Releases
 
 ### **New Features**
 
-- New Screenshot options - Save to Files, Save to Photos, Image Scale
+- New Screenshot options
+  - Save to Files, Save to Photos, Image Scale
 
 ### **Updates**
 

@@ -13,15 +13,9 @@ Ignited is a multi-core emulator front-end for iOS devices. It provides a beauti
 - ## [Discord](https://discord.gg/qEtKFJt5dR)
 - ## [Patreon](https://patreon.com/litritt)
 
-# Download [v1.3.0](https://github.com/Lit-Development/Ignited/releases/latest) on 4/28/2023
+# Download [v1.4](https://github.com/Lit-Development/Ignited/releases/latest) on 5/13/2023
 
-- ## [Patron OTA Install](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.3.0/manifest.plist)
+- ## [Patron OTA Install](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.4/manifest.plist)
 - ## [AltStore Install](altstore://install?url=https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
 - ## [AltStore (Beta) Source](altstore://source?url=https://apps.litritt.com)
 - ## [IPA File](https://github.com/Lit-Development/Ignited/releases/latest/download/Ignited.ipa)
-
-# Download BETA v1.4.0b6 on 5/11/2023
-
-- ## [Patron OTA Install](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.4.0b6/manifest.plist)
-- ## [AltStore Install](altstore://install?url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.4.0b6/Ignited.ipa)
-- ## [IPA File](https://f005.backblazeb2.com/file/lit-apps/ignited/1.4.0b6/Ignited.ipa)
