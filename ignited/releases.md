@@ -6,6 +6,19 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.4.1 - 5/14/2023
+
+### **New Features**
+
+- Adds an option to reset game artwork to the one provided by the games database
+- Adds a power user option to reset artwork for every game at once
+
+### **Bugfixes**
+
+- Fixes cancelling some pause menu popups causing the game to freeze
+- Fixes incorrect checkmarks next to selected palette for sprite 1 and 2
+- Fixes preview save state being overwritten by auto save state
+
 ## 1.4 - 5/13/2023
 
 ### **Updates**
