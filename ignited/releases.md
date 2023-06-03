@@ -6,6 +6,23 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.4.2 - 6/3/2023
+
+### **New Features**
+
+- Quick Settings
+  - Quick access to game options and actions: screenshot, save, load, volume, game speed, palettes
+  - Accessible from a controller/skin button as well as the pause menu
+
+### **Updates**
+
+- New options for game title size and max lines, available in User Interface Features -> Game Artwork Customization
+
+### **Bugfixes**
+
+- Fixes crash on iPad when resolving sync merge conflicts
+- Fixes accidentally deleting Games directory during sync in rare circumstances
+
 ## 1.4.1 - 5/14/2023
 
 ### **New Features**
