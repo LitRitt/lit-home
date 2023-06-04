@@ -6,6 +6,20 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.4.3 - 6/4/2023
+
+### **Updates**
+
+- Adds an option for custom touch overlay color
+- Creates a new feature section called Games Collection
+- Moves settings previously found in Game Artwork Customization into separate sections within the Games Collection feature set
+- Makes Favorites features respect whether the feature is actually enabled
+
+### **Bugfixes**
+
+- Fixes lag when changing settings with animated artwork in the background
+- Fixes animated artwork losing transparency when downsampling
+
 ## 1.4.2 - 6/3/2023
 
 ### **New Features**
