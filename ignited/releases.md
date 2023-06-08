@@ -6,6 +6,24 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.4.4 - 6/7/2023
+
+### **New Features**
+
+- Adds several new alternate app icons and an interface to change between them
+- Adds an option within every feature to reset all options to their default values, and a power user option to reset all options at once
+- Adds an option to change the intensity of the favorite games highlight glow
+
+### **Updates**
+
+- Makes the reset artwork feature work with the DS home screen icons
+- Makes rewind deleting its states on rewinding or quitting the game a toggleable option
+  - Allows the rewind feature to be used as a persistent secondary auto-save method
+
+### **Bugfixes**
+
+- Fixes artwork size setting not applying until swiping to a new page
+
 ## 1.4.3 - 6/4/2023
 
 ### **Updates**
