@@ -8,6 +8,24 @@ title: Ignited Releases
 
 ## 1.4.4 - 6/7/2023
 
+## 1.4.5 - 6/16/2023
+
+### **New Features**
+
+- Blurred game backgrounds for skins
+  - Options to enable/disable, change blur strength, and adjust the brightness
+- Option to change the N64 graphics rendering API between OpenGL ES 2 and OpenGL ES 3
+
+### **Updates**
+
+- Adds support for skins with .ignitedskin extension to differentiate between legacy Delta skins and new Ignited skins
+- Adds more mappable inputs for controllers
+
+### **Bugfixes**
+
+- Fixes overlapping buttons when mapping controller inputs
+- Fixes crashes on N64 when opening menu and saving state
+
 ### **New Features**
 
 - Adds several new alternate app icons and an interface to change between them
