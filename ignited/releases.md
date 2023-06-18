@@ -6,7 +6,23 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
-## 1.4.4 - 6/7/2023
+## 1.4.6 - 6/17/2023
+
+### **New Features**
+
+- Background blur toggle now available in the pause menu
+- Background blur options now available in the quick settings menu
+
+### **Updates**
+
+- Adds support for skin representations with the backgroundBlur key
+- Adds an option to override the backgroundBlur setting of a skin
+- Disables background blur on GPGX core for the time being
+- Reverts and updates pause menu icons
+
+### **Bugfixes**
+
+- Fixes N64 screens going black when toggling background blur
 
 ## 1.4.5 - 6/16/2023
 
@@ -25,6 +41,8 @@ title: Ignited Releases
 
 - Fixes overlapping buttons when mapping controller inputs
 - Fixes crashes on N64 when opening menu and saving state
+
+## 1.4.4 - 6/7/2023
 
 ### **New Features**
 
