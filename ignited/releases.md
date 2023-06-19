@@ -6,6 +6,23 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.4.7 - 6/19/2023
+
+### **New Features**
+
+- Classic skins have been added to the Skin Downloads section in settings for users who want to use the old Delta skins
+
+### **Updates**
+
+- Updated NES default skin with new design
+- Default skins with new design have been updated to utilize the new backgroundBlur key
+- Allows skin preview images to be in either pdf or png format
+- Updated logic for when the background blur pause menu button should show
+
+### **Bugfixes**
+
+- Fixes an issue with the default GBA E2E landscape skin image
+
 ## 1.4.6 - 6/17/2023
 
 ### **New Features**
