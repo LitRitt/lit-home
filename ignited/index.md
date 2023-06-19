@@ -19,3 +19,4 @@ Ignited is a multi-core emulator front-end for iOS devices. It provides a beauti
 - ## [GitHub](https://github.com/Lit-Development/Ignited)
 - ## [Discord](https://discord.gg/qEtKFJt5dR)
 - ## [Patreon](https://patreon.com/litritt)
+- ## [Classic Skins](https://litritt.com/ignited/classic-skins)
