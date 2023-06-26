@@ -6,6 +6,24 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.4.8 - 6/25/2023
+
+### **New Features**
+
+- Rotation Lock
+  - Adds a pause menu button to lock device rotation during gameplay
+- Adds an option to play a 3 second countdown between initiating and capturing a game screenshot
+
+### **Updates**
+
+- Default skins with blurred backgrounds have been adjusted to look seamless on all device sizes
+- New icon for hold buttons pause menu button
+- Speed up importing compressed games in ZIP format by skipping checksum verification
+
+### **Bugfixes**
+
+- Fixes game screenshots being saved to Photos as JPEG instead of PNG
+
 ## 1.4.7 - 6/19/2023
 
 ### **New Features**
