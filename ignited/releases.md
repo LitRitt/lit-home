@@ -6,6 +6,30 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.5 - 7/13/2023
+
+### **New Features**
+
+- AirPlay
+  - Proper support for streaming games to an external screen
+- Trigger Deadzone
+  - Adjustable deadzone for trigger inputs on controllers
+- Skin Background Color
+  - Change the background color of controller skins from black to any other color
+
+### **Updates**
+
+- Fast Forward inputs can now be manually switched between toggle and hold by users
+- Improved default button mappings for various Switch controllers
+- Updated app icon and other assets to match modified design
+- Various syncing improvements in Harmony
+
+### **Bugfixes**
+
+- Make Quick Settings dismissible with controller input
+- Fixes DS save states made with JIT enabled not loading when JIT is not enabled
+- Fixes crash when loading save states on iOS 17
+
 ## 1.4.8 - 6/25/2023
 
 ### **New Features**
