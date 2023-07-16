@@ -6,6 +6,18 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.5.1 - 7/16/2023
+
+### **Updates**
+
+- Different button overlay styles to choose from
+- Updated button sounds to play through the audio engine instead of as system sounds
+- Button sounds can be played at either their own volume, or the same volume of game audio
+
+### **Bugfixes**
+
+- Fixes launching a game via deep link not respecting the auto load save state setting
+
 ## 1.5 - 7/13/2023
 
 ### **New Features**
