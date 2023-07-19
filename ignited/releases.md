@@ -6,6 +6,19 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.5.2 - 7/19/2023
+
+### **Updates**
+
+- Adds new "Classic" icon by Kongolabongo
+- Changes deep link scheme from delta:// to ignited://
+
+### **Bugfixes**
+
+- Fixes a crash when remapping controller inputs
+- Fixes deep links not loading auto save states in some scenarios
+- Fixes wrong description for controller deadzone option
+
 ## 1.5.1 - 7/16/2023
 
 ### **Updates**
