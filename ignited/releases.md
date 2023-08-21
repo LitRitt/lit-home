@@ -6,6 +6,18 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.5.3 - 8/20/2023
+
+### New Features
+
+- Added Random Game button to load a random game from your collection
+
+### Updates
+
+- Improved preset theme color selection screen
+- Updated DS default skin to new style
+- Updated SNES default skin to new style###
+
 ## 1.5.2 - 7/19/2023
 
 ### **Updates**
