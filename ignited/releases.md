@@ -6,6 +6,14 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.5.2 - 7/19/2023
+
+### **Bugfixes**
+
+- Fixes wrong game collection being used for random game button
+- Fixes a crash when selecting hold buttons
+- Fixes a crash when displaying toasts
+
 ## 1.5.3 - 8/20/2023
 
 ### New Features
