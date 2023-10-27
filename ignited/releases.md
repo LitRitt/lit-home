@@ -6,7 +6,19 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
-## 1.5.2 - 7/19/2023
+## 1.5.5 - 10/27/2023
+
+### **Updates**
+
+- Changes some toast notifications to be disabled by default
+
+### **Bugfixes**
+
+- Fixes a bug with AirPlay display losing transparency after rotating the device
+- Fixes a bug with AirPlay not showing the correct DS screens on the external display
+- Fixes games losing audio after switching systems
+
+## 1.5.4 - 10/23/2023
 
 ### **Bugfixes**
 
@@ -16,11 +28,11 @@ title: Ignited Releases
 
 ## 1.5.3 - 8/20/2023
 
-### New Features
+### **New Features**
 
 - Added Random Game button to load a random game from your collection
 
-### Updates
+### **Updates**
 
 - Improved preset theme color selection screen
 - Updated DS default skin to new style
