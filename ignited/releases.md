@@ -6,6 +6,21 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.5.6 - 10/28/2023
+
+### **New Features**
+
+- Adds support for dynamic background blur tinting based on device light/dark mode setting
+  - The background blur will be darkened in dark mode and lightened in light mode
+  - Intensity of the tint can also be adjusted
+
+### **Updates**
+
+- Makes DSi support toggle-able
+  - User's won't be able to add DSi BIOS files until toggling DSi support on first
+  - The DSi NAND file will be removed when DSi support is toggled off to remove the DSi Home Screen
+- Moves Core Settings below Features in the settings page
+
 ## 1.5.5 - 10/27/2023
 
 ### **Updates**
