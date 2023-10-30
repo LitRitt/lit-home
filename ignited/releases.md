@@ -6,6 +6,14 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.6 - 10/30/2023
+
+### **New Features**
+
+- Adds an informative popup after successfully importing controller skins and games
+- Adds a setting to show unsupported controller skins
+- Adds an All Systems page to settings for controller skin management
+
 ## 1.5.6 - 10/28/2023
 
 ### **New Features**
