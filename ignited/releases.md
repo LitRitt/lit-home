@@ -6,6 +6,17 @@ title: Ignited Releases
 
 ## [Ignited Home](https://litritt.com/ignited)
 
+## 1.6.1 - 10/31/2023
+
+### **New Features**
+
+- Adds an option to replace the Quick Settings button on skins with another input
+- Adds an option to open Quick Settings by shaking the device
+- Adds a new menu to change or reset Override Traits, and to access the pause menu
+  - Accessible via shaking the device
+- Adds a Power User feature to copy the Google Drive refresh token
+  - Allows other applications and services to access your Google Drive Ignited Sync backup files
+
 ## 1.6 - 10/30/2023
 
 ### **New Features**
