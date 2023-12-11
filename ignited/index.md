@@ -8,14 +8,12 @@ title: Ignited Emulator for iOS
 
 Ignited is a multi-core emulator front-end for iOS devices. It provides a beautiful user interface and rich features that other emulators lack. An experience that feels right at home on your premium devices. Join the [Discord](https://discord.gg/qEtKFJt5dR) to follow along with development, suggest new features, and chat. Become a [Patron](https://patreon.com/litritt) to support development and unlock benefits, such as being able to install Ignited straight from this page without having to sideload it.
 
-- ## [Patron Beta OTA Install](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.7/manifest.plist)
+# Download [v1.7.1](https://github.com/LitRitt/Ignited/releases/latest) - 12/02/2023
 
-# Download [v1.6.1](https://github.com/LitRitt/Ignited/releases/latest) - 10/31/2023
-
-- ## [Patron OTA Install](itms-services://?action=download-manifest&url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.6.1/manifest.plist)
-- ## [AltStore Install](altstore://install?url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.6.1/Ignited.ipa)
-- ## [AltStore (Beta) Source](altstore://source?url=https://apps.litritt.com)
-- ## [IPA File](https://f005.backblazeb2.com/file/lit-apps/ignited/1.6.1/Ignited.ipa)
+- ## [Patron OTA Install](https://ota.ignitedemulator.com)
+- ## [AltStore Install](altstore://install?url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.7.1/Ignited.ipa)
+- ## [AltStore (Beta) Source](altstore://source?url=https://altstore.ignitedemulator.com)
+- ## [IPA File](https://f005.backblazeb2.com/file/lit-apps/ignited/1.7.1/Ignited.ipa)
 
 # Links
 
