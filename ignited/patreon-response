@@ -1,0 +1,8 @@
+---
+permalink: /patreon/ignited
+---
+<script>
+    var uri = 'ignited://patreon';
+    uri = uri + document.location.search; 
+    window.location = uri;
+</script>
