@@ -6,19 +6,11 @@ title: Ignited Emulator for iOS
 
 ![Ignited Banner](/assets/images/ignited-banner.png)
 
-Ignited is a multi-core emulator front-end for iOS devices. It provides a beautiful user interface and rich features that other emulators lack. An experience that feels right at home on your premium devices. Join the [Discord](https://discord.gg/qEtKFJt5dR) to follow along with development, suggest new features, and chat. Become a [Patron](https://patreon.com/litritt) to support development and unlock benefits, such as being able to install Ignited straight from this page without having to sideload it.
+Ignited is a multi-core emulator front-end for iOS devices. It provides a beautiful user interface and rich features that other emulators lack. An experience that feels right at home on your premium devices. Join the [Discord](https://discord.gg/qEtKFJt5dR) to follow along with development, suggest new features, and chat. Become a [Patron](https://patreon.com/litritt) to support development and unlock benefits, such as Pro features and OTA installations.
 
-# Download [v1.7.1](https://github.com/LitRitt/Ignited/releases/latest) - 12/02/2023
-
-- ## [Patron OTA Install](https://ota.ignitedemulator.com)
-- ## [AltStore Install](altstore://install?url=https://f005.backblazeb2.com/file/lit-apps/ignited/1.7.1/Ignited.ipa)
-- ## [AltStore (Beta) Source](altstore://source?url=https://altstore.ignitedemulator.com)
-- ## [IPA File](https://f005.backblazeb2.com/file/lit-apps/ignited/1.7.1/Ignited.ipa)
-
-# Links
-
-- ## [Changelog](https://litritt.com/ignited/releases)
+- ## [Documentation](https://docs.ignitedemulator.com)
+- ## [Installation](https://docs.ignitedemulator.com/getting-started/installation)
+- ## [Release Notes](https://docs.ignitedemulator.com/release-notes)
 - ## [GitHub](https://github.com/LitRitt/Ignited)
 - ## [Discord](https://discord.gg/qEtKFJt5dR)
 - ## [Patreon](https://patreon.com/litritt)
-- ## [Classic Skins](https://litritt.com/ignited/classic-skins)

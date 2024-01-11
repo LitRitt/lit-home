@@ -16,17 +16,13 @@ lit-midnight:
     - { platform: patreon, user_url: "https://www.patreon.com/litritt" }
     - { platform: discord, user_url: "https://discord.gg/qEtKFJt5dR" }
     - { platform: github, user_url: "https://github.com/litritt" }
-    - { platform: twitter, user_url: "https://twitter.com/lit_ritt" }
-    - { platform: rss, user_url: "https://litritt.com/feed.xml" }
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - blog.md
-  - skins.md
+  - index.md
+  - ignited/index.md
   - guides.md
-  - designs.md
-  - about.md
 
 # Build settings
 remote_theme: litritt/lit-midnight
